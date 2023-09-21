@@ -8,3 +8,6 @@ print("hello world")
 # a harus di eksekusi di awal
 a = 10
 print(a)
+
+'''
+'''

@@ -12,3 +12,4 @@ print('nilai a', a, ' dan juga b', x)
 a = 7
 
 print(a)
+
